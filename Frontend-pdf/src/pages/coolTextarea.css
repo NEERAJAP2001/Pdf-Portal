@@ -1,0 +1,19 @@
+/* coolTextarea.css */
+
+.cool-textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    resize: vertical;
+    height: 150px;
+    transition: border-color 0.3s ease;
+  }
+  
+  .cool-textarea:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
