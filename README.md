@@ -16,7 +16,7 @@ npm start
 mvn clean install
 mvn spring-boot:run
 ```
-5. Create a Database
+5. Create a MySQL Database
 ```cmd
 create database pdfportals;
 ```
