@@ -16,6 +16,10 @@ npm start
 mvn clean install
 mvn spring-boot:run
 ```
+5. Create a Database
+```cmd
+create database pdfportals;
+```
 
 ## Usage
 1. Open a web browser and navigate to http://localhost:3000/.
